@@ -34,8 +34,8 @@ namespace InfernoCollection.VehicleCollection.Client
         internal const string
             CONFIG_FILE_NAME = "config.json",
             TOW_CONTROLS =
-                "~INPUT_F8DD5118~/~INPUT_2F20FA6E~ = Forward/Backwards" +
-                "\n~INPUT_872241C1~/~INPUT_DEEBB52A~ = Left/Right" +
+                "~INPUT_F8DD5118~/~INPUT_2F20FA6E~ = test/test" +
+                "\n~INPUT_872241C1~/~INPUT_DEEBB52A~ = test/test" +
                 "\n~INPUT_32D078AF~/~INPUT_7B7B256B~ = Up/Down" +
                 "\n~INPUT_6DC8415B~/~INPUT_4EEC321F~ = Rotate Left/Right" +
                 "\n~INPUT_83B8F159~/~INPUT_EE722E7A~ = Rotate Up/Down" +
